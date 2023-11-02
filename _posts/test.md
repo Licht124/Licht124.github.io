@@ -1,4 +1,19 @@
 
+title	excerpt	categories	tags	permalink	toc	toc_sticky	date	last_modified_at
+[포스팅 예시] Test
+Test 작성
+Categories4
+tag1
+tag2
+/categories4/post-name-here-4/
+true
+true
+2023-11-02
+2023-11-03
+🦥 본문
+본문은 여기에 ...
+
+
 #### 📙 #JSP_1101_과제
 
 1. 폼 페이지에서 입력된 데이터를 전달하는 요청 파라미터 값을 JSP 페이지로 가져오는 내장객체는?
