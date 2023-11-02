@@ -1,18 +1,24 @@
+---
+title: "[포스팅 예시] Test"
+excerpt: "Test 작성"
 
-title	excerpt	categories	tags	permalink	toc	toc_sticky	date	last_modified_at
-[포스팅 예시] Test
-Test 작성
-Categories4
-tag1
-tag2
-/categories4/post-name-here-4/
-true
-true
-2023-11-02
-2023-11-03
-🦥 본문
+categories:
+  - Categories4
+tags:
+  - [tag1, tag2]
+
+permalink: /categories4/post-name-here-4/
+
+toc: true
+toc_sticky: true
+
+date: 2022-07-24
+last_modified_at: 2022-07-24
+---
+
+## 🦥 본문
+
 본문은 여기에 ...
-
 
 #### 📙 #JSP_1101_과제
 
